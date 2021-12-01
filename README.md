@@ -69,7 +69,7 @@ Please consider citing this project in your publications if it helps your resear
 ```
 @inproceedings{Das2021AbusiveAT,
   title={Abusive and Threatening Language Detection in Urdu using Boosting based and BERT based models: A Comparative Approach},
-  author={Mithun Das and Somnath Banerjee and Punyajoy Saha},
+  author={Das, Mithun and Banerjee, Somnath and Saha, Punyajoy},
   journal={arXiv preprint arXiv:2111.14830},
   year={2021}
 }

@@ -16,7 +16,7 @@ Social media often acts as breeding grounds for different forms of abusive conte
 5. [Acknowledgements](#acknowledgements)
 
 ## System Description Paper  
-Our paper can be found [here](https://arxiv.org/linkcommingsoon).    
+Our paper can be found [here](https://arxiv.org/abs/2111.14830).    
 
 ## Task Details
 The shared tasks present in this competition are divided into two parts. Where in one part participants have to focus on detecting Abusive language using twitter tweets in Urdu language [(Subtask A)](https://ods.ai/competitions/urdu-hack-soc2021) and in other part mainly focusing on detecting Threatening language using Twitter tweets in Urdu language [(Subtask B)](https://ods.ai/competitions/urdu-hack-soc2021-threat). To download the data, go to the following [link](https://www.urduthreat2021.cicling.org/).
